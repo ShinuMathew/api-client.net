@@ -327,7 +327,7 @@ namespace WebserviceDemo
             List<MarketSkus> wdNewProductsFutureDate = new List<MarketSkus>();
             List<MarketSkus> wdLimitedEdition = new List<MarketSkus>();
 
-            RestClient client = new RestClient("http://wddceqglws21:18961");
+            RestClient client = new RestClient(System.Environment.GetEnvironmentVariable("CA_HOST"));
 
             RestRequest request = new RestRequest("/products/findbylanguage");
 
@@ -557,7 +557,7 @@ namespace WebserviceDemo
         [TestMethod]
         public void GetDiscountProducts()
         {
-            RestClient client = new RestClient("http://wddceqglws21:18961");
+            RestClient client = new RestClient(System.Environment.GetEnvironmentVariable("CA_HOST"));
 
             RestRequest request = new RestRequest("/products/findbylanguage");
 
@@ -645,7 +645,7 @@ namespace WebserviceDemo
 
             Console.WriteLine("Getting all the Valid section 1 and 2 products");
             Console.WriteLine("************************************************************");
-            RestClient client = new RestClient("http://wddceqglws21:18961");
+            RestClient client = new RestClient(System.Environment.GetEnvironmentVariable("CA_HOST"));
 
             RestRequest request = new RestRequest("/products/findbylanguage");
 
@@ -781,7 +781,7 @@ namespace WebserviceDemo
             }                     
 
             //GetproductsByLanguage service response.
-            RestClient client2 = new RestClient("http://wddceqglws21:18961");
+            RestClient client2 = new RestClient(System.Environment.GetEnvironmentVariable("CA_HOST"));
 
             RestRequest getProductsByLanguageRequest = new RestRequest("/products/findbylanguage");
 
