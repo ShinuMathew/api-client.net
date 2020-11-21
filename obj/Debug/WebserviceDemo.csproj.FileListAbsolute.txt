@@ -1,0 +1,46 @@
+C:\Users\MathewS\Documents\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\bin\Debug\WebserviceDemo.dll.config
+C:\Users\MathewS\Documents\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\bin\Debug\WebserviceDemo.dll
+C:\Users\MathewS\Documents\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\bin\Debug\WebserviceDemo.pdb
+C:\Users\MathewS\Documents\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\bin\Debug\agilex.json.client.dll
+C:\Users\MathewS\Documents\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\MathewS\Documents\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\bin\Debug\Json.NET.Web.dll
+C:\Users\MathewS\Documents\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MathewS\Documents\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\bin\Debug\Restful.Service.Client.dll
+C:\Users\MathewS\Documents\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\bin\Debug\Restful.Web.Client.dll
+C:\Users\MathewS\Documents\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\bin\Debug\RestSharp.dll
+C:\Users\MathewS\Documents\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MathewS\Documents\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\bin\Debug\RestSharp.xml
+C:\Users\MathewS\Documents\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\obj\Debug\WebserviceDemo.dll
+C:\Users\MathewS\Documents\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\obj\Debug\WebserviceDemo.pdb
+C:\Users\MathewS\Documents\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\obj\Debug\WebserviceDemo.csprojResolveAssemblyReference.cache
+D:\My Document\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\bin\Debug\WebserviceDemo.dll.config
+D:\My Document\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\bin\Debug\WebserviceDemo.dll
+D:\My Document\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\bin\Debug\WebserviceDemo.pdb
+D:\My Document\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\bin\Debug\agilex.json.client.dll
+D:\My Document\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\bin\Debug\DocumentFormat.OpenXml.dll
+D:\My Document\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\bin\Debug\Json.NET.Web.dll
+D:\My Document\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\My Document\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\bin\Debug\Microsoft.TeamFoundation.Build.Activities.dll
+D:\My Document\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\bin\Debug\Microsoft.TeamFoundation.Build.Workflow.dll
+D:\My Document\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\bin\Debug\Microsoft.TeamFoundation.Deployment.Workflow.dll
+D:\My Document\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\bin\Debug\Microsoft.TeamFoundation.VersionControl.Client.dll
+D:\My Document\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\bin\Debug\Microsoft.TeamFoundation.VersionControl.Common.dll
+D:\My Document\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\bin\Debug\Microsoft.TeamFoundation.VersionControl.Common.Integration.dll
+D:\My Document\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\bin\Debug\Microsoft.TeamFoundation.VersionControl.ControlAdapter.dll
+D:\My Document\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\bin\Debug\Microsoft.TeamFoundation.VersionControl.Controls.Common.dll
+D:\My Document\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\bin\Debug\Microsoft.TeamFoundation.VersionControl.Controls.dll
+D:\My Document\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\bin\Debug\Microsoft.TeamFoundation.VersionControl.UIFeatures.dll
+D:\My Document\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\bin\Debug\Newtonsoft.Json.dll
+D:\My Document\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\bin\Debug\Restful.Service.Client.dll
+D:\My Document\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\bin\Debug\Restful.Web.Client.dll
+D:\My Document\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\bin\Debug\RestSharp.dll
+D:\My Document\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+D:\My Document\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\bin\Debug\Microsoft.TeamFoundation.Build.Workflow.xml
+D:\My Document\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\bin\Debug\Microsoft.TeamFoundation.VersionControl.Client.xml
+D:\My Document\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\bin\Debug\Microsoft.TeamFoundation.VersionControl.Common.xml
+D:\My Document\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\bin\Debug\Newtonsoft.Json.xml
+D:\My Document\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\bin\Debug\RestSharp.xml
+D:\My Document\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\bin\Debug\Microsoft.WITDataStore.dll
+D:\My Document\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\obj\Debug\WebserviceDemo.dll
+D:\My Document\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\obj\Debug\WebserviceDemo.pdb
+D:\My Document\Visual Studio 2013\Projects\WebserviceDemo\WebserviceDemo\obj\Debug\WebserviceDemo.csprojResolveAssemblyReference.cache
