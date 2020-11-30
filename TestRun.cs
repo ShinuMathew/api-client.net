@@ -52,7 +52,7 @@ namespace WebserviceDemo
         public void CodedUITestMethod1()
         {
             //Creating a blank request body and passing the base url
-            RestClient client = new RestClient("http://wddceqcaapi01:18929");
+            RestClient client = new RestClient(System.Environment.GetEnvironmentVariable("CA_QA_HOST"));
 
             //Passing the API url
             RestRequest request = new RestRequest("/consultants/{ContactId}/profile");
@@ -508,7 +508,7 @@ namespace WebserviceDemo
                 String Items="{\"Items\":[{\"Sku\":\""+partID+"\",\"Quantity\":1,\"Status\":\"Valid\"}]}";
 
               
-                    client = new RestClient("http://wddceqcaapi01:18929");
+                    client = new RestClient(System.Environment.GetEnvironmentVariable("CA_QA_HOST"));
 
                     req = new RestRequest("consultants/{ContactId}/cartitems", Method.PUT);
                     req.AddUrlSegment("ContactId", contactId);                    
@@ -1076,14 +1076,14 @@ namespace WebserviceDemo
             Console.WriteLine(obj);
             String addressDetails;
 
-            addressDetails = "ContactId=21864438|SubsidiaryCode=CA|Culture=en-CA|Name=tester|Line1=57DIVISION ST N|Line2=57 DIVISION ST N|City=KINGSVILLE|State=ON|Zip=N9Y 1E1|County=CA|CountryId=6|Phone1=5197332343|Phone2=5197332343|EmailAddress=test@corp.com";
+            addressDetails = "ContactId=424245|SubsidiaryCode=CA|Culture=en-CA|Name=tester|Line1=57DIVISION ST N|Line2=57 DIVISION ST N|City=KINGSVILLE|State=ON|Zip=N9Y 1E1|County=CA|CountryId=6|Phone1=5197332343|Phone2=5197332343|EmailAddress=test@corp.com";
 
             String[] addressParam = addressDetails.Split('|');
 
             String[] paramKeys;
             String[] paramValues;          
             
-            String url = "http://wddceqcaapi01:18929";
+            String url = System.Environment.GetEnvironmentVariable("CA_QA_HOST");
             String apiURI = "/consultants/{ContactId}/addresses";
 
             RestClient client = new RestClient(url);
@@ -1153,7 +1153,7 @@ namespace WebserviceDemo
             
             Dictionary<int, ShippingFee> shippingFeeDetails = new Dictionary<int, ShippingFee>();
             XmlDocument xmlRes = new XmlDocument();
-            xmlRes.Load("file://wddceqcaapi01/OctopusDeployments/EcommServices/Config/CA/ShippingFee.config");
+            xmlRes.Load(System.Environment.GetEnvironmentVariable("CA_QA_PS_SHIPPING"));
 
             foreach (XmlNode node in xmlRes.DocumentElement.ChildNodes[0].ChildNodes)
             {
